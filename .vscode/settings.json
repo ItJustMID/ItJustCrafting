@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "It Just Crafting.sln"
+    "dotnet.defaultSolution": "ItJustCrafting.sln"
 }
